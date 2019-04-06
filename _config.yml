@@ -1,11 +1,11 @@
 # Basic
-title: myfinal test
-subtitle: just for test
-description: 欢迎来到我的个人网站~
+title: Chengfu Zou
+subtitle: for a buttom up life
+description: Welcome to my blog~
 # 头像里面的标题
-avatarTitle: hhh
+avatarTitle: 
 # 头像里面的描述
-avatarDesc: 机器人赛事/嵌入式
+avatarDesc: 
 url: "http://rogercsi.github.io"
 
 # Comment
@@ -18,7 +18,7 @@ comment:
 social:
     weibo: rogercsi
     weixing: rogercsi 
-    github: 
+    github: rogercsi
     # twitter: 
     mail: rogercsizou@gmail.com
     csdn: 
@@ -26,13 +26,13 @@ social:
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: 144d500dd9ac4a65465a14b95f3e4ade 
+    id: 
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 #ga:
-# id: UA-84134159-3   
-#  host: auto  
+# id: 
+#  host: 
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
