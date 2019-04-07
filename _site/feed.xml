@@ -1,87 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>myfinal test</title>
-    <description>欢迎来到我的个人网站~</description>
+    <title>Chengfu Zou</title>
+    <description>Welcome to my blog~</description>
     <link>http://rogercsi.github.io/</link>
     <atom:link href="http://rogercsi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Apr 2019 03:13:43 +0800</pubDate>
-    <lastBuildDate>Sun, 07 Apr 2019 03:13:43 +0800</lastBuildDate>
+    <pubDate>Mon, 08 Apr 2019 02:42:05 +0800</pubDate>
+    <lastBuildDate>Mon, 08 Apr 2019 02:42:05 +0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
-        <title>时间的朋友丨2018-2019</title>
-        <description>&lt;h6&gt;&lt;img src=&quot;https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/copyright.png&quot; alt=&quot;copyright&quot; style=&quot;display:inline;margin-bottom: -5px;&quot; width=&quot;20&quot; height=&quot;20&quot; /&gt; 版权声明：本文为博主原创文章，未经博主允许不得转载。
-&lt;a target=&quot;_blank&quot; href=&quot;http://robotkang.cc/2019/01/2019plan/&quot;&gt;原文地址：http://robotkang.cc/2019/01/2019plan/ &lt;/a&gt;
-&lt;/h6&gt;
-&lt;p&gt;流光容易把人抛，红了樱桃，绿了芭蕉。      &lt;br /&gt;
-又到了年末节点，在这里先恭喜自己，
-也恭喜大家，年龄又长了一岁，体态又胖了一圈。            &lt;br /&gt;
-回望这一年，走过了很多城市&lt;a href=&quot;http://robotkang.cc/ziyuan/&quot; target=&quot;_blank&quot;&gt;[足迹地图]&lt;/a&gt;，看过了很多美景，也认识了很多人。         &lt;br /&gt;
-一路走来，思考了很多，所以觉得还是很有必要复盘一下  2018  年的得与失，规划一下  2019 年要努力的方向。&lt;/p&gt;
-&lt;h3&gt;买买买&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;18 年买的最值得的就是&lt;a style=&quot;color:#59b950;text-decoration:none&quot;&gt;@一加手机&lt;/a&gt;了（5月22日入手），用了大半年了，一点都不卡，体验感特别棒~&lt;/li&gt;
-  &lt;li&gt;网站的域名  &lt;a style=&quot;color:#FF4500;text-decoration:none&quot;&gt;robotkang.cc&lt;/a&gt; 也续费到了 2021  年，所以说至少在未来的三年里我就还可以在这个域名下的博客里啰里啰嗦。&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://shimo.im/?inviterid=6673547&amp;amp;invitername=%E4%BA%A2%E5%BF%97%E5%86%9B&quot; target=&quot;_blank&quot;&gt; 
-@印象笔记&lt;/a&gt;、&lt;a href=&quot;https://www.panc.cc&quot; target=&quot;_blank&quot;&gt;@石墨&lt;/a&gt;、
-&lt;a href=&quot;https://mubu.com/inv/&quot; target=&quot;_blank&quot;&gt;
-@幕布&lt;/a&gt;这些生产力工具趁着过节折扣价入手了&lt;code class=&quot;highlighter-rouge&quot;&gt;高级会员&lt;/code&gt;，&lt;a href=&quot;https://www.processon.com/i/5c19ca49e4b0e83682e60aef&quot; target=&quot;_blank&quot;&gt;@Processon&lt;/a&gt; 也差点入手，只不过理智战胜了冲动，这个对于我来说免费版可以用。这几款软件个人强烈推介~&lt;/li&gt;
-  &lt;li&gt;最近被 Sony 的 &lt;code class=&quot;highlighter-rouge&quot;&gt;WH-1000XM3&lt;/code&gt; 降噪耳机种草了，也许在 2019 年某个合适的时候入手，在这个喧嚣的城市里给自己一个安静的世界。&lt;/li&gt;
-  &lt;li&gt;也许还会买一台笔记本电脑，还没想好~&lt;/li&gt;
-&lt;/ol&gt;
+        <title>开始新篇章</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;其实，我不知道如何是好&lt;/h1&gt;
 
-&lt;h3&gt;卡路里&lt;/h3&gt;
-&lt;p&gt;    至于运动，我觉得   2018   年是最欠缺的，倒是也打了几场球，跑了几次步，但是都没有形成一个系统性的习惯。通过18年经历过的事和见过的人来看，越来越意识到一个强壮身体的重要性，&lt;code class=&quot;highlighter-rouge&quot;&gt;身体是革命的本钱&lt;/code&gt;，就想大疆刚毕业的那位小伙子，工作压力太大，身体扛不住了，骤然猝死，徒留亲人悲痛，不值得。所以在 2019 年，我已经在培养自己的锻炼习惯和工作习惯，需要找到两者之间的平衡点，这样才能高效持续的产出，对自己的未来负责。&lt;/p&gt;
-&lt;h3&gt;开新坑&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;由于室友是视觉、控制方面的专家，在年中的时候也买过几本关于视觉的书看了几天，觉得是一个发展方向，奈何后面的的知识对于基础学科的要求太高，作为渣渣的我颇感吃力，也许得到大学回炉再造。这件事情也就无疾而终了，不过也算是对视觉这方面有了个基本的认识吧~&lt;/li&gt;
-  &lt;li&gt;自己做了几次饭，只是简单的煮面和火锅，最大的感觉自己做饭是真的便宜，又比较卫生，不过觉得洗完切菜什么的太麻烦了，还是大多在外面吃。也许哪天自己有了生活的气息了，会主动去学几道菜~哈哈哈~&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3&gt;小成就&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;个人网站&lt;/strong&gt; 越来越完善，想要的功能都加了进去，虽然写代码的水平不咋滴，但是东拼西凑的也都搞定了，到现在为止  github  上也有接近  50  个人 copy 了我的网站模版。&lt;/li&gt;
-  &lt;li&gt;自己在工作上越来越职业化、专业化，也有了自己的一些 &lt;strong&gt;想法&lt;/strong&gt;，自认为这是一个好的预兆，至少在没有人带的情况下没有误入歧途。&lt;/li&gt;
-  &lt;li&gt;有了自己的一点小积蓄，可以去自己想去的地方，吃自己想吃的东西。爸爸生病住院时也可以及时的进行资金支援，回家的时候，也可以给妈妈买一点礼物和好吃的~&lt;/li&gt;
-  &lt;li&gt;对自己，对世界有了更为深刻的 &lt;strong&gt;认识&lt;/strong&gt;。对自己，不必去羡慕别人的生活，自己也有自己的精彩，认为自己还是一个比较纯粹的人；对世界，客观的去分析一些事情，至少可以多方面的看待天朝的好与坏了，哈哈~，即使高墙也阻挡不了我探索世界的心，还有就是 &lt;a style=&quot;color:#FF4500;text-decoration:none&quot;&gt;Google、Telegrem &lt;/a&gt;这些软件服务是真的好用！&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3&gt;有想法&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;村里的老一辈一直叫我们这些大学生叫“&lt;strong&gt;读书人&lt;/strong&gt;”，遗憾的是  2018  年，书是没读了几本，游戏等级倒是上升了好多，罪过罪过，所以在 2019 年里也给自己列了几本必读的书，也许能够更加充实一点自己吧~&lt;a href=&quot;http://robotkang.cc/book/&quot; target=&quot;_blank&quot;&gt;[我的书单]&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;《怪诞心理学》&lt;/li&gt;
-      &lt;li&gt;《万历十五年》&lt;/li&gt;
-      &lt;li&gt;《听妈妈讲那会计的事情》&lt;/li&gt;
-      &lt;li&gt;《中国，少了一味药》&lt;/li&gt;
-      &lt;li&gt;《我的世界观》&lt;/li&gt;
-      &lt;li&gt;《无印良品生活研究所》&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;持续系统化的学习 &lt;strong&gt;英文&lt;/strong&gt;，制定计划中…&lt;/li&gt;
-  &lt;li&gt;学习 &lt;strong&gt;架子鼓&lt;/strong&gt;，正在练习中~（不得不说，找到一个合适的琴行和老师还是一件让人头大的事情纳）&lt;/li&gt;
-  &lt;li&gt;努力 &lt;strong&gt;赚钱&lt;/strong&gt;，努力，努力~&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;人家都说出走半生，归来仍是少年，但愿我们一直年轻下去，做自己喜欢做的事，&lt;code class=&quot;highlighter-rouge&quot;&gt;用乐观的心态面对一切&lt;/code&gt;。        &lt;br /&gt;
-希望等《2019年年度总结》出来的时候，愿我们的总结词是如此：
-&lt;a style=&quot;color:#FF4500;text-decoration:none&quot;&gt;富有、&lt;/a&gt;
-&lt;a style=&quot;color:#59b950;text-decoration:none&quot;&gt;健康、&lt;/a&gt;
-&lt;a style=&quot;color:#a510eb;text-decoration:none&quot;&gt;自律&lt;/a&gt;。  &lt;br /&gt;
-&lt;strong&gt;加油吧，你我！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;你我约定，在相遇的日子里不分离…&lt;/p&gt;
+  &lt;p&gt;兜兜转转多少年，熙熙攘攘万千人&lt;/p&gt;
+
+  &lt;p&gt;我，不知如何是好&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;h2 id=&quot;section-1&quot;&gt;其实，非也，非也&lt;/h2&gt;
+
+&lt;p&gt;多年以前，我大概也许是个充满斗志与雄心的少年，不知从何时开始，开始被纷繁复杂的尘世叨扰。当然，当初也未曾明白准确的清楚，自己的使命到底为何，然而，总感觉，有一种骨子里的召唤，让我奔波忙碌。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;不知来路，焉得归途&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;好的，现在先来回忆一下那些年&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;小学&lt;/h3&gt;
+
+&lt;p&gt;完全属于懵懂状态，似乎也没有什么神奇的、有趣的、凶狠的人的引导，比如&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;武林&lt;strong&gt;高手&lt;/strong&gt;教我降龙十八掌&lt;/li&gt;
+  &lt;li&gt;神秘黑客带我&lt;strong&gt;计算机&lt;/strong&gt;入门&lt;/li&gt;
+  &lt;li&gt;狼爸虎妈逼着学习&lt;strong&gt;奥数&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;青梅竹马&lt;/strong&gt;，当然只是现在作为一个肥宅的幻想而已&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;so 大致上是过了一段平淡无奇的小学的生活，在一个浙江的三线小城市。&lt;/p&gt;
+
+&lt;p&gt;和那些历史上的牛逼天才们相比，可能真的是纽约和二狗村之间的距离，但我当时似乎也没有考虑过这些问题，日子过得优哉游哉，有&lt;em&gt;俩拜把子兄弟&lt;/em&gt;，有俩长的&lt;em&gt;漂亮的女同学&lt;/em&gt;放学一起回家（现在想想当时真的是人生淫家。。人生估计巅峰在小学了）。当时的综合素质，虽说在世界范围内不是很牛逼，但在&lt;strong&gt;全村的范围&lt;/strong&gt;那也是首屈一指的顶尖存在。还记得六年级走进美妙&lt;em&gt;数学花园竞赛&lt;/em&gt;，全校有两人获得了一等奖，另一个女生是从小学了多年的奥数，而我，从未做过奥赛题，恁是凭借自己的&lt;em&gt;天才数学素养&lt;/em&gt;，杀出了一条血路(没错，小聪明还是有的，&lt;strong&gt;高斯求和&lt;/strong&gt;也是我自己发现的，如果早生几百年可能叫做&lt;strong&gt;甫哥求和&lt;/strong&gt;！)&lt;/p&gt;
+
+&lt;p&gt;由于小学的师资力量实在薄弱，班主任在后几年一直是返聘的老太婆任教，质量可想而知。所以，我一直没有拿到过三好学生，弄得我一直觉得自己不是很强。直到快毕业了，期末考试好像惊破了天，语文92，数学100，英语100，科学98。so 老太婆不得不给我一个&lt;strong&gt;三好生&lt;/strong&gt;。而我，也就最后一次被迫的参加了毕业的夏令营，我还记得当年的宣誓，”我一定会考上一中的”，只不过当时有点紧张，说成”我一定会考上高中”。。。小时候吹过的牛逼都一一实现了。&lt;/p&gt;
+
+&lt;p&gt;这么说来，小学年代实在有些久远，大事记好像也没有，反正就是大家相安无事，顺利活到了小学毕业。嗯，没有&lt;strong&gt;青梅竹马&lt;/strong&gt;，没有&lt;strong&gt;铁杆兄弟&lt;/strong&gt;。之前不是提到漂亮的女同学和把子兄弟吗，那只是当时，好像我这样的人，&lt;em&gt;每走完一段人生历程，就会不由自主的将其切断，开始一段全新的旅程&lt;/em&gt;，这在之后的阶段也能看的出来，&lt;strong&gt;而当我被迫随着社会和身边的人改变时，悲剧就发生了&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;初中&lt;/h3&gt;
+
+&lt;p&gt;初中应该是目前为止过得最舒畅的三年了，在学校里怼天怼地怼老师怼同学，无人奈我何。感谢徐攀开学的一句话，”&lt;strong&gt;邹承甫同学是我们班入学考试男生中的第一名&lt;/strong&gt;“，二话没说我就成为了副班长，然后开始我人生第一段从政生涯。学生时代，除了学习外，&lt;strong&gt;文艺体育&lt;/strong&gt;永远是逃不脱的话题，因为乡下伢子没吃过各种好吃的，也是因为从小带我的幼儿园老师的鼓励政策，我吃的特别的快，so 我已经开始要长胖了，果然，没有了青春。。。&lt;/p&gt;
+
+&lt;p&gt;但不可否认，当时的我还是很搞笑的，&lt;em&gt;所以附近的女孩子都&lt;strong&gt;很喜欢我&lt;/strong&gt;&lt;/em&gt;。。。应该肯定的。但是，前两年，我还没发育，所以也没有对女生产生过多的兴趣。直到初三第一学期结束，感觉已经有了能力，嗯，有能力了。然后快中考了，所以我错过了&lt;strong&gt;早恋&lt;/strong&gt;的机会，O(∩_∩)O哈哈~&lt;/p&gt;
+
+&lt;p&gt;初中真的是传说中的幸福生活的有力代表。当时的我，对知识充满强烈的&lt;strong&gt;好奇心&lt;/strong&gt;，开始好像也没有特别的想取得好成绩，但一直都是&lt;strong&gt;吊打&lt;/strong&gt;其他人。课余时间就是&lt;strong&gt;打打球&lt;/strong&gt;。哦，结交了班上几个狐朋狗友，所以染上了&lt;strong&gt;游戏瘾&lt;/strong&gt;。同样出于村里伢子的&lt;em&gt;卑鄙特质&lt;/em&gt;，又一次沉沦了。然后家里就断网了，我被与世隔绝了，当时似乎还产生过对&lt;strong&gt;黑客&lt;/strong&gt;的兴趣，不过也只是不了了之了。和Panda的熟识，是因为&lt;strong&gt;柯南&lt;/strong&gt;，然后两人就神经质的满世界找&lt;strong&gt;凶杀案&lt;/strong&gt;，当然没那么多死人咯，但是练习了扯淡的&lt;em&gt;推理分析能力&lt;/em&gt;，当时觉得这种&lt;em&gt;知识丰富&lt;/em&gt;的感觉真的很酷，大概就是所谓的 &lt;em&gt;geek&lt;/em&gt; 的诞生吧。&lt;/p&gt;
+
+&lt;p&gt;初中因为无人能管，铁打的邹承甫，流水的邹承甫座位，我和一半以上的女生做过，嗯，前后邻桌之类的，前桌姑娘很浪，后桌姑娘很白也挺漂亮的，邻桌的很可爱？？反正我当时还是个孩子。&lt;/p&gt;
+
+&lt;p&gt;Panda后来去了&lt;strong&gt;麦吉尔大学&lt;/strong&gt;学&lt;em&gt;EE&lt;/em&gt;，虽然因为我不怎么上QQ，多年下来也断了联系，未来说不定职场能碰碰也说不准。漂亮的姑娘可能也二胎了吧。。。&lt;/p&gt;
+
+&lt;p&gt;很憧憬的高中时代终于来啦，然而，并没有想象中的那么美好。。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;高中&lt;/h3&gt;
+
+&lt;p&gt;不可避免，&lt;strong&gt;倘若焦虑惶恐，必是活在未来；假如悔恨遗憾，定是活在过去&lt;/strong&gt;，初中时，向往的高中生活，也是来了，没有想象中的壮怀激烈。我有了作为一个正常青春期的想法，然而班上的女生，长得，或者说打扮的，确实不是那么负责任。作为初三开始看&lt;strong&gt;烽火戏诸侯&lt;/strong&gt;的&lt;strong&gt;极品公子&lt;/strong&gt;度过青春期蜕变的男生，对女生一定是奉上圣坛的，但我一直捧不动。青春的臆想覆灭了，当然，也没有去其他班上寻觅的想法，so 自我下坠，直至&lt;strong&gt;肥宅&lt;/strong&gt;，人生巅峰大概在高三第一学期，肿的不行。&lt;/p&gt;
+
+&lt;p&gt;高中几次高光时刻，都处在&lt;strong&gt;运动场&lt;/strong&gt;上，&lt;strong&gt;篮球赛&lt;/strong&gt;的10中8，单场17分，技惊四座。&lt;strong&gt;羽毛球赛&lt;/strong&gt;的横刀立马，也吸引不少的目光。虽然仍然是一个&lt;strong&gt;肥宅&lt;/strong&gt;，但并不影响我牛逼。可能没有女生喜欢那个奋斗的&lt;em&gt;胖子&lt;/em&gt;吧，但是，那个胖子还是在努力的&lt;strong&gt;发光&lt;/strong&gt;啊！！！虽然没有姑娘谈情说爱，但多少还是有个把三观差不多，阅读量差不多的男生女生能一起聊天扯淡的。&lt;/p&gt;
+
+&lt;p&gt;虽说是初三染上的小说瘾，直到高中才正式全面的爆发，作为一个&lt;strong&gt;非典型直男&lt;/strong&gt;，我真的看过&lt;em&gt;言情小说&lt;/em&gt;好伐，而且发自内心的觉得感情的纠葛真的是超级的爽的，来虐我吧，估计还是是抖M内核，当然，肉体是正常的。后来，玄幻啊，都市啊，仙侠啊，都看，我还是挺挑书，所以很快，市面上的比较好看的书都看过一遍，当然，除了屈指可数的几本真的比较吸引人的，我真的没有耐心看完。所以高中把那些小说都看完了，甚至翻出了金庸的武侠。。。&lt;/p&gt;
+
+&lt;p&gt;说一下游戏，有一段时间又喜欢上了&lt;strong&gt;魔兽争霸&lt;/strong&gt;，在教室的多媒体电脑上打，老师来了依然镇定自若，解释为在查资料，一直被江湖传为美谈。&lt;/p&gt;
+
+&lt;p&gt;其实现在想想，还是有个把不错的姑娘，奈何已然肥宅，处女座觉得这样不对啊，怎么能这么肥宅，不行啊，然后就自卑了，然后越肥宅越自卑。。当时，似乎还未能觉醒内心的，觉得找女朋友没啥有意思的（真想抽一巴掌）so 也不是很想减肥之类的。&lt;strong&gt;最后转机出现了&lt;/strong&gt;，快要高考了，虽然我高中成绩真的很差，但是我一直觉得自己智商无敌，稍微努力一下就能追上来。虽然在最后一学期从中等赶到班上前三，本是稳定浙大，然而全班萎靡，我也只是&lt;strong&gt;金玉其外&lt;/strong&gt;，被迫背井离乡，北上北京。。这又是一个新的故事开始了。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-5&quot;&gt;大学&lt;/h3&gt;
+
+&lt;p&gt;anyway，活过了18岁，成人了，发生了很多事，但还是独自来到这个国家的权力中心。抛弃了过去的一切，我终于感觉，这一次，我准备好了，哈哈，真的吗？来之前，总算是&lt;em&gt;减肥&lt;/em&gt;减下来了，感觉自己这些总算可以自信一些了。处女座的特质还是发挥了作用，我觉得还不够，so 开始&lt;strong&gt;健身&lt;/strong&gt;了，重拾&lt;strong&gt;网球&lt;/strong&gt;，在网球上获得了&lt;strong&gt;身份的认同&lt;/strong&gt;。一切似乎正在向着正常且满意的轨道发展。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;网球队&lt;/strong&gt;形形色色的人，大致为我描绘出了大学的&lt;strong&gt;轮廓&lt;/strong&gt;，前两年的日子算是过得无忧无虑，除了最后一学期完全没有上课，就是打打球，锻炼身体。多少这些学长对我的影响还是正面且又积极向上的，因为对土木的厌恶，我基本的社交就集中在网球圈子内，而🐢妈妈讲故事，也就是这么扯出来的。虽然那两年没有完成什么任务，甚至可以说是一事无成，但是荒唐之下，也遇到了只有在不学无术一心打球才可能遇到的人。so what 缘分呐。在我丧失目标下结识的有趣的人们，可能才是能真心鼓舞我的，maybe。但是，的的确确是他们的，在那段时间的&lt;strong&gt;陪伴&lt;/strong&gt;，让当时未想清楚一切问题的我，感受到一群人为了一个目标&lt;strong&gt;奋斗&lt;/strong&gt;的充实与感动。可能，现在想想，那只是为了自欺欺人而自己强加的荣耀感，但，那真的是我们这群人的青春啊！！！&lt;/p&gt;
+
+&lt;p&gt;大一喜欢一个&lt;em&gt;女孩子&lt;/em&gt;，可能是第一次觉得，这么美好的人啊（纯粹自己&lt;strong&gt;臆想&lt;/strong&gt;），离自己那么近，害怕&lt;strong&gt;太用力太狰狞&lt;/strong&gt;，姑娘会闪躲，所以相当紧张，一起出去几次，搞砸了（所以，经验很重要，然而悖论是，约其他的完全提不起兴趣，有兴趣又TMD慌得一批）。还是没有放弃，还跟着去了&lt;strong&gt;摩洛哥&lt;/strong&gt;做&lt;strong&gt;志愿者&lt;/strong&gt;（当然是阴差阳错，我当时觉得，卧槽，缘分啊，有戏！！！），但也不过是换了一个地方吃饭拉屎，并不清楚去的目的，并不是很&lt;strong&gt;享受&lt;/strong&gt;。反正，觉得，在一个国度，可能会有机会吧。这段单恋，很卑微呐，那个女生可能也明白我的心意吧，可能也喜欢过我吧，毕竟大爷我这么&lt;strong&gt;优质&lt;/strong&gt;，又那么&lt;strong&gt;纯情&lt;/strong&gt;。。可惜啦，有缘无分，真的可惜了，姑娘。。。打扰了，我的意思是，姑娘错过了我，挺可惜的。&lt;/p&gt;
+
+&lt;p&gt;回国后就是大二了，成了网球队的队长，不喜欢无聊的&lt;strong&gt;土木&lt;/strong&gt;，&lt;strong&gt;转专业&lt;/strong&gt;，打网球，健身，八块腹肌出来了，感觉自己又有力量开始新的生活了。正好有机会出国去比利时，let’s go。暑假还去&lt;strong&gt;波利泰利&lt;/strong&gt;练了练网球，”&lt;em&gt;告别中国，再也不回来，再也不和中国人说话&lt;/em&gt;“，这是我当时的想法。直到独身的到了比利时，也尝试加入网球校队，因为基本都是本地人，就俩美国来的研究生，所以也无甚兴趣，更没有想法融入当地社会。当然，如今思量起来，在国内，我似乎也从未融入哪一个团体，&lt;strong&gt;我总是孑然一身，也只有当我独自一人时，我才是我自己&lt;/strong&gt;。？&lt;/p&gt;
+
+&lt;p&gt;但这次异国他乡的&lt;strong&gt;独处&lt;/strong&gt;，似乎并非寻常意义上的&lt;strong&gt;发现自我求知真理&lt;/strong&gt;的过程。曾经的&lt;em&gt;自律&lt;/em&gt;，在彻底的&lt;strong&gt;放纵&lt;/strong&gt;，无人监督，理想丧失面前，被撕裂成碎片。可能未曾下定决心一心追逐学术，亦或是感觉自己其实未曾经历&lt;strong&gt;凡尘的灯火酒绿&lt;/strong&gt;，更别提能看破&lt;strong&gt;浮躁的尘世&lt;/strong&gt;，静心学业。所以，矛盾因此产生了，既想去世界的顶级学府，接受更好的教育，这是曾经亲手葬送的机会；同时，&lt;strong&gt;年轻的躁动&lt;/strong&gt;与&lt;strong&gt;冷清的周遭&lt;/strong&gt;，&lt;strong&gt;难以融入的社会环境&lt;/strong&gt;，&lt;strong&gt;嗤之以鼻&lt;/strong&gt;的中国同学聒噪的热闹，一切都不断的刺激着内心，这一次，前所未有的危机，使我找寻着理由，将自己蜷曲。这下好了，&lt;strong&gt;动漫&lt;/strong&gt;来了。&lt;/p&gt;
+
+&lt;p&gt;实不相瞒，&lt;strong&gt;B站前50页&lt;/strong&gt;的动漫我基本上都点进去看过，还不包括B站上没有版权的。可见当时是有多逃避现实。忘了当时的初衷是怎样，应该是和现在一样，想要找寻某种力量，一种能从泥淖中爬出的力量。除了动漫，&lt;strong&gt;豆瓣评分&lt;/strong&gt;8.0以上的电影也是看了七七八八，什么肖申克的救赎之类的经典更是三四遍了。和其他人不一样，我多少是带着我当时的&lt;strong&gt;心境与思考&lt;/strong&gt;看的，所以每次都有不同的收获，包括所谓&lt;strong&gt;肥宅的动漫&lt;/strong&gt;于我而言，亦是有着特殊的意味。结果不言而喻，找寻力量这种事情，如同发现生命的意义这类的课题，往往是没有答案，或是任意答案皆可。我也明白思维的固化，让人类发誓一定要寻得一个&lt;strong&gt;标准&lt;/strong&gt;。即便如我这么聪慧的青年，已然意识到寻求力量源泉的道路必是一条死胡同的，在往日的自律体系被击溃的情况下，再难重启一段新的旅程。。&lt;/p&gt;
+
+&lt;p&gt;不禁莞尔，也不知道是多少次说 &lt;em&gt;today is  a new day&lt;/em&gt;，这两年&lt;strong&gt;重启&lt;/strong&gt;过了多少次，还是开机蓝屏。。。大概需要返厂大修吧。&lt;/p&gt;
+
+&lt;p&gt;接下来的日子乏善可陈，总是要多狼狈有多狼狈，基本都是每天挣扎地从床上爬起，然后失败了，天天如此，邹大爷您也不嫌累哈。我想，可能是&lt;strong&gt;心境的差别&lt;/strong&gt;，现在的我，学会了找寻借口与捷径，而年轻两三岁的邹承甫，将 &lt;strong&gt;&lt;em&gt;no pains no gains&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;奉为圭臬&lt;/strong&gt;，所以也未曾找寻什么&lt;strong&gt;&lt;em&gt;shortcut&lt;/em&gt;&lt;/strong&gt;，一根筋的觉得只有每天早上早起晨读锻炼，才能锻炼出好身材，说好英语。。这是我兜兜转转多年后，发现的。。&lt;/p&gt;
+
+&lt;p&gt;看官可见，回国的两年完全死气沉沉，这基本上也反应了一些个人状态。虽然我口头上说着这几段经历无甚可后悔的，这种颓废，若能在日后反刍，也是能作为日后的警示，但谁能真正的做到青春年华被如此放肆挥霍而不悔恨的。如此甚好，嘴头上说着不后悔，多少也有些宽慰了。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-6&quot;&gt;毕业临近&lt;/h3&gt;
+
+&lt;p&gt;无论如何，大学多少过得还是相当曲折的，若是以成败论这5年，我定性为败的一塌糊涂。所以过去的阶段大概是&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;小学中规中矩，略有闪光点  — 村级&lt;/li&gt;
+  &lt;li&gt;初中可真的是亮瞎了眼 — 市级&lt;/li&gt;
+  &lt;li&gt;高中前期被虐成狗，后期一路狂奔，功亏一篑 — 省级&lt;/li&gt;
+  &lt;li&gt;大学前期自我感觉牛逼哄哄，目中无人，睥睨天下，中后期灰头土脸，打回原形 — 国家级&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;anyway，起码不是一帆风顺，没错，窃以为，只有&lt;strong&gt;愿我未来命途多舛才是对我最好的祝福&lt;/strong&gt;，只有&lt;strong&gt;遭过最毒的打&lt;/strong&gt;，&lt;strong&gt;享过至上之福&lt;/strong&gt;，才是最&lt;strong&gt;完美的人生&lt;/strong&gt;，当然，我可能不会主动求虐。(可能毕业了就遭到社会毒打)&lt;/p&gt;
+
+&lt;p&gt;这几个月，虽然偶有懈怠，但也基本是因为一些历史原因导致的拖拉&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;对&lt;strong&gt;未来&lt;/strong&gt;的恐慌焦虑和对&lt;strong&gt;过去&lt;/strong&gt;的悔恨遗憾永远是不能逃避的消极情绪，只能接纳，别无他法&lt;/li&gt;
+  &lt;li&gt;多年未曾在学业上的&lt;strong&gt;成功&lt;/strong&gt;，对自我有所&lt;strong&gt;怀疑&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;从高中以后就养成的&lt;strong&gt;拖延&lt;/strong&gt;习惯&lt;/li&gt;
+  &lt;li&gt;在计算机专业与世界顶尖学府间已然形成的，看似难以逾越的&lt;strong&gt;鸿沟般差距&lt;/strong&gt;令我生畏，好似&lt;strong&gt;难以望其项背&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;以上，基本总结了我能想到的所有理由，解决办法就是，生死由天，不服就干，来一票大的，干你娘的，要死屌朝天。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-7&quot;&gt;展望未来&lt;/h3&gt;
+
+&lt;p&gt;以上内容，我大概写了两个多小时，只为了能从过往的经历中挖掘出一些具有借鉴意义的内容，以作未来之用。&lt;/p&gt;
+
+&lt;p&gt;提到每个人生阶段与上一层&lt;strong&gt;切断了联系&lt;/strong&gt;，这只是我的特殊情况，&lt;em&gt;社会阶级&lt;/em&gt;不同了，&lt;strong&gt;共同&lt;/strong&gt;的东西自然不多，我这样不喜欢追忆往昔，过去的美好我很&lt;em&gt;珍惜&lt;/em&gt;，曾经的陪伴我很&lt;em&gt;感激&lt;/em&gt;，但不如让我们将其封存，化作将来某天，小雨淅沥街头不经意浮上心头的会心一笑。倘若有缘，假如有心，即便身处社会地位不同，定然会相约，或一茶楼，&lt;strong&gt;只谈风月&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;然而最后，我能得出的结论其实都是所谓的&lt;strong&gt;常识&lt;/strong&gt;，然而就像Tal所说的 &lt;em&gt;common sense is not so common&lt;/em&gt; ，而所谓圣人之所以为圣，盖出于此乎？&lt;strong&gt;知行&lt;/strong&gt;二字，bjtu的校训是唯一差强人意的东西了。。。真惨&lt;/p&gt;
+
+&lt;p&gt;不是吹牛，在青春期之前，我TM真的就是一个圣人(神人)，基本上FLAG就没有做不到的，绝不拖沓，专心专注，心无旁骛。现在就是要一步一步恢复到童年的状态。记得好像是&lt;strong&gt;荣格&lt;/strong&gt;说的，&lt;strong&gt;一个&lt;em&gt;人终其一生的&lt;/em&gt;努力,就是在整合&lt;em&gt;童年&lt;/em&gt;时代就已形成的性格&lt;/strong&gt;。大概也许，就是我现在想做的事情吧。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;旁边的人很重要，&lt;strong&gt;环境&lt;/strong&gt;很大程度影响个人的发展，如果觉得旁边的人不如自己，果断&lt;strong&gt;寻求更高一级的挑战&lt;/strong&gt;，当被虐的体无完肤的时候，才真的 &lt;em&gt;make some progress&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;人最终还是活在过去的幻想中，&lt;strong&gt;难以逾越&lt;/strong&gt;，只求明白自己每一步潜意识来源&lt;/li&gt;
+  &lt;li&gt;永远不要觉得时间够用，机会总是出现在&lt;strong&gt;微末&lt;/strong&gt;间，现在的&lt;strong&gt;苟且&lt;/strong&gt;会是未来&lt;strong&gt;苦痛悲伤&lt;/strong&gt;的根源&lt;/li&gt;
+  &lt;li&gt;很多时候，环境的&lt;strong&gt;压力&lt;/strong&gt;会让人迷失，&lt;em&gt;信心&lt;/em&gt;总被&lt;em&gt;击垮&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;总说，孤独能毁掉一个人，也能成就一个人，全然在于自己的状态，若是伟人模式，孤独如同天堂，生产力爆棚；庸人模式，独身如坐针毡，多么想找个人扯扯淡呐。。。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;所以，我也曾考虑过自己到底因何而来，现在想想，我就是被我爸妈&lt;strong&gt;生出来&lt;/strong&gt;的，可能真的没有什么原因，哪怕我这种极端唯心主义人士，觉得自己是被召唤来拯救世界的伟人，也不得其解。那么，就当他例行公事好了，接下来把自己的身体和灵魂交出去，让所谓的常识操控这幅躯体。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;可能有点人格分裂的嫌疑，但我以为，人的确是分成两部分，即人性的一部分，贪婪、懒惰、骄傲，所谓的七宗罪大致如此，还有一部分我总结为属于兽性的机械化常规化部分，可能存在交叉重叠部分，但大致上是利用潜意识里的内容，仿佛人被机器化硬编码，机械重复做各种人类看起来艰难的行为，也可以叫做习惯，可能是早起、学习等，即便是沉迷学习的心流体验，也是在粗鄙的人性的脱离之后的产物。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;想到曹雪芹对自己的《红楼梦》的评语，”&lt;strong&gt;&lt;em&gt;满纸荒唐言，一把辛酸泪&lt;/em&gt;&lt;/strong&gt;“。这是我第一篇博客，也是想到什么说什么，以流水账的格式。希望未来最好每周都能写一点文字，这是在现代社会中泛滥的信息输入下，艰难的输出过程，也是不断&lt;strong&gt;结构系统化&lt;/strong&gt;反思问题，产生&lt;strong&gt;思考&lt;/strong&gt;的渠道之一。&lt;/p&gt;
+
+&lt;p&gt;当然，主要&lt;strong&gt;人类的本质是复读机&lt;/strong&gt;，有些东西，我说的太多了，我觉得把他们记录下来，下次和别人扯淡打屁的时候，如果恰巧聊到类似内容，就可以甩过去一个网址，说：”这道题我讲过了”。&lt;/p&gt;
+
+&lt;p&gt;多年不写作文，见谅。未来会越来越好！！！&lt;/p&gt;
 </description>
-        <pubDate>Sun, 13 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://rogercsi.github.io/2019/01/2019plan/</link>
-        <guid isPermaLink="true">http://rogercsi.github.io/2019/01/2019plan/</guid>
+        <pubDate>Sun, 07 Apr 2019 00:00:00 +0800</pubDate>
+        <link>http://rogercsi.github.io/2019/04/newStart/</link>
+        <guid isPermaLink="true">http://rogercsi.github.io/2019/04/newStart/</guid>
         
-        <category>博客</category>
+        <category>some thinkings</category>
         
         
       </item>

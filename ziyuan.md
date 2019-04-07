@@ -7,31 +7,6 @@ title: 资源「USEFUL LINKS」
 <P>Life is colorful, this website is a window which used to present the color of my life.          
 
 
-<P>       
-<h3> Personal Website</h3>   
-<p>
-
-<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/%E9%85%8D%E8%89%B2%E5%99%A8.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
-<a href="/college/" target="_blank">大学|四年</a>- 记青春年华. &emsp;
-<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/%E4%BC%98%E7%95%8C%E7%BD%91.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
-<a href="/time machine/" style="color:#DC143C" target="_blank">微语</a>- Time Machine &emsp;
-<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/Colorfavs.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
-<a href="/book/" style="color:#DC143C" target="_blank">个人书单</a>-  FLAG &emsp;
-
-<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/%E5%AD%A6UI%E7%BD%91.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
-
-<a href="http://robotkang.xyz" style="color:#DC143C" target="_blank">Company</a>- FLAG&emsp;
-
-<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/%E6%B1%82%E5%AD%97%E4%BD%93.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
-<a href="http://wiki.robotkang.cc" target="_blank" style="text-decoration:none" > Robotkang's Wiki </a>个人维基百科库，还未整理！    
-<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/app%E8%A7%84%E8%8C%83.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
-<a href="/app/" target="_blank">APP下载1</a>
-<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/app%E8%A7%84%E8%8C%83.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
-<a href="/APP/" target="_blank">APP下载2</a>- 专属软件.&emsp;
-<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/app%E8%A7%84%E8%8C%83.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
-<a href="/Robotkang Lab/" target="_blank">Robotkang Lab</a>- LAB.未更新&emsp;
-<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/%E4%BC%98%E7%95%8C%E7%BD%91.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
-<a href="/zajia/index.html/"  style="color:#DC144C" target="_blank">杂家导航</a>     
 
 <P>       
 <h3> Some useful/beautiful web </h3>   
@@ -87,26 +62,6 @@ Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_b
 <p>
 <a href="http://www.w3school.com.cn" target="_blank" > w3school </a>-在w3school上，你可以找到全面的~建站资料「html、css、sql、php...」
 
-<a href="/photos/"  style="color:#272727" target="_blank"> <h1>相册「Photos」</h1></a>  
-</p>
 
-<a href="/photos/" target="_blank"><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/tupian.png" width="100%" height="auto" alt="photos" display="block"/></a>
-</p>
-<a style="color:#272727" target="_blank"> <h1>足迹「Footmark」</h1></a>  
-<p>
-<h5>如果一个人的声音和足迹，能被另外一个人永远地铭记或怀念，这就是永恒。</h5>
-<br> 
-<iframe style="max-width: 100%" frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="450px" src="/map/README.html"><br></iframe>
-</p>
 
-<a  style="color:#272727" target="_blank"> <h1>游戏「Games」</h1></a>  
-</p>
-<a href="http://www.templatesy.com/demo/462/index.html" target="_blank" >2048</a>- 经典小游戏.&emsp;
-<a href="http://www.templatesy.com/demo/194/index.html" target="_blank" >Tank</a>- 经典中的经典...&emsp;
-<a href="http://www.templatesy.com/demo/342/index.html"  target="_blank" >Drum Kit</a>- 在线架子鼓.&emsp;
-<a href="/gamebird/"  target="_blank" >Flappy Bird</a>- 像素小鸟.&emsp;
-<a href="/gamefly/"  target="_blank" >飞机大战</a>- 仿微信端 &emsp;
-<a href="http://www.jq22.com/demo/jquery-xiangqi-141214215742/"  target="_blank" >中国象棋</a>-国粹&emsp;
-<a href="http://www.jq22.com/demo/jquery-jfcz20160830/"  target="_blank" >见缝插针</a>-看你过得了多少关..&emsp;
-<a href="http://www.jq22.com/demo/jquery-wzq20151231/"  target="_blank" >五子棋</a>-益智小游戏&emsp;
 

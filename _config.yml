@@ -10,9 +10,9 @@ url: "http://rogercsi.github.io"
 
 # Comment
 comment:
-    provider: duoshuo
+    provider: 
     duoshuo:
-     short_name: robotkang
+     short_name: zcf
 
 # Social
 social:
