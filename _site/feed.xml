@@ -5,8 +5,8 @@
     <description>Welcome to my blog~</description>
     <link>http://rogercsi.github.io/</link>
     <atom:link href="http://rogercsi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Jun 2019 00:45:10 +0800</pubDate>
-    <lastBuildDate>Sun, 30 Jun 2019 00:45:10 +0800</lastBuildDate>
+    <pubDate>Sun, 30 Jun 2019 20:56:13 +0800</pubDate>
+    <lastBuildDate>Sun, 30 Jun 2019 20:56:13 +0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -68,6 +68,38 @@
         <guid isPermaLink="true">http://rogercsi.github.io/2019/06/%E6%96%B0%E7%9A%84%E9%A2%86%E6%82%9F/</guid>
         
         <category>some thinkings</category>
+        
+        
+      </item>
+    
+      <item>
+        <title> iterm2  &amp; zsh 配置</title>
+        <description>&lt;h1 id=&quot;vim--iterm2--zsh-&quot;&gt;vim &amp;amp; iterm2 &amp;amp; zsh &amp;amp;..&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;很明显，我又一次因为手贱，安装了别人的vim配置，然后整个iterm好像崩了，为此，我决定写一份重装手册，以防万一，下次可能还会需要&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;参考网址：&lt;a href=&quot;https://sourabhbajaj.com/mac-setup/iTerm/zsh.html&quot;&gt;mac-setup_iterm-zsh&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;安装zsh&lt;/li&gt;
+  &lt;li&gt;为其安装oh my zsh&lt;/li&gt;
+  &lt;li&gt;更换oh my zsh 的主题，并为其添加插件&lt;/li&gt;
+  &lt;li&gt;可能存在中文乱码，需要更改~/.zshrc&lt;/li&gt;
+  &lt;li&gt;之前安装的软件可能存在依赖关系，anaconda等可能会出现command not found，需要在~/.zshrc中&lt;code class=&quot;highlighter-rouge&quot;&gt;#User configuration&lt;/code&gt;部分添加&lt;code class=&quot;highlighter-rouge&quot;&gt;source ~/.bash_profile&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/3.png&quot; alt=&quot;3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这是安装好oh my zsh 后的样子&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/Screen Shot 2019-06-30 at 8.29.22 PM.png&quot; alt=&quot;Screen Shot 2019-06-30 at 8.29.22 PM&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 30 Jun 2019 00:00:00 +0800</pubDate>
+        <link>http://rogercsi.github.io/2019/06/term&zsh%E9%85%8D%E7%BD%AE/</link>
+        <guid isPermaLink="true">http://rogercsi.github.io/2019/06/term&zsh%E9%85%8D%E7%BD%AE/</guid>
+        
+        <category>软件安装与配置</category>
         
         
       </item>
